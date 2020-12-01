@@ -1,0 +1,69 @@
+body, html, .container-fluid {
+    height: 94.5%;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+#message-box {
+    margin-top: 1rem;
+}
+
+#message-box li{
+    display: inline-block;
+    clear: both;
+    float: left;
+    width: 95%;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid black;
+}
+
+.fa-plus {
+    cursor: pointer;
+}
+
+.sidebars {
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    color: #6e7a8b;
+    text-shadow: none;
+}
+
+.sidebars ul {
+    margin-top: .5rem;
+    text-align: justify;
+    padding-left: 3.5rem;
+    font-size: 1rem !important;
+    font-weight: lighter;
+    width: 100% !important;
+    cursor: pointer;
+}
+
+.active {
+    background-color: #d4d7dc;
+    color: black;
+}
+
+.fa-circle {
+    color: #43b581;
+}
+
+
+/* .input-group {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: .5rem;
+    width: 97% !important;
+} */
+
+.form-control {
+    background-color: #f2f3f5 !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
+  
+  
